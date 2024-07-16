@@ -1,9 +1,13 @@
 # 1GoodPot-Vegas
  Excelente para extrair layout e recursos incriveis
 # Demonstração
-https://goodpot.gameslot.codes
-User: admin@admin.com
-Pass: 123456
+- https://goodpot.gameslot.codes 
+- User: admin@admin.com
+- Pass: 123456
+
+![Exemplo de imagem](goodpot.jpg)
+
+
  
 ## Data de Criação
 2024-03-12 14:57:17
